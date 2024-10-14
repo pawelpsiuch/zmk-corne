@@ -46,7 +46,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&none  &kp EXCLAMATION               &kp AT_SIGN                    &kp POUND                &kp DOLLAR                         &kp PERCENT      &kp CARET         &kp BACKSLASH                      &kp PIPE                       &kp SLASH                    &kp AMPERSAND                    &none
+&none  &kp EXCLAMATION               &kp AT_SIGN                    &kp POUND                &kp DOLLAR                         &kp PERCENT      &kp CARET         &kp BACKSLASH                      &kp PIPE                       &kp FSLH                     &kp AMPERSAND                    &none
 &none  &mt RIGHT_SHIFT SINGLE_QUOTE  &mt LEFT_CONTROL LEFT_BRACKET  &mt LEFT_ALT LEFT_BRACE  &mt LEFT_COMMAND LEFT_PARENTHESIS  &kp LESS_THAN    &kp GREATER_THAN  &mt RIGHT_SHIFT RIGHT_PARENTHESIS  &mt RIGHT_CONTROL RIGHT_BRACE  &mt RIGHT_ALT RIGHT_BRACKET  &mt RIGHT_COMMAND DOUBLE_QUOTES  &trans
 &none  &kp GRAVE                     &kp MINUS                      &kp UNDERSCORE           &kp PLUS                           &kp EQUAL        &kp DOT           &kp COMMA                          &kp COLON                      &kp SEMICOLON                &kp QUESTION                     &trans
                                                                     &kp LGUI                 &trans                             &kp SPACE        &kp RET           &trans                             &kp RALT
